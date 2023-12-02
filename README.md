@@ -1,2 +1,3 @@
 # Lowercase-Uppercase
- Changing the letters you enter to uppercase
+ C++ Project for University
+ Changing the lowercase entry text to Uppercase
